@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D4B43EB3-688B-4EEE-86BD-088F0B28ABB3}") = "MSMQ.6.3.StaticThreshold", "MSMQ.6.3.StaticThreshold\MSMQ.6.3.StaticThreshold.mpproj", "{2B0F4A07-CBAF-47A8-AB7B-E0089B57F822}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://opsconfig.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MSMQ.6.3.StaticThreshold\\MSMQ.6.3.StaticThreshold.mpproj
+		SccProjectName1 = MSMQ.6.3.StaticThreshold
+		SccLocalPath1 = MSMQ.6.3.StaticThreshold
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B0F4A07-CBAF-47A8-AB7B-E0089B57F822}.Debug|x86.ActiveCfg = Debug|x86
+		{2B0F4A07-CBAF-47A8-AB7B-E0089B57F822}.Debug|x86.Build.0 = Debug|x86
+		{2B0F4A07-CBAF-47A8-AB7B-E0089B57F822}.Release|x86.ActiveCfg = Release|x86
+		{2B0F4A07-CBAF-47A8-AB7B-E0089B57F822}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
